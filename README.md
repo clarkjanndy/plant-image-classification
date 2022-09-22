@@ -1,6 +1,5 @@
-# plant-image-classification
-
-This repository contains the jupyter notebooks that was used to expirement and create a MobileNet-Based CNN that can classify the 10 different medicinal plants.
+# =Medicinal Plant Classification Using MobileNet Based CNN
+Jupyter Notebook used for creating a MobileNet-based CNN that can classify the ten mostly used and found medicinal plant in the Philippines.
 
 # How to use the notebooks
 1. You can use the notebooks by uploading it to Google Colaboratory. Google Colaboratory offers free GPU for the traning of the model.
