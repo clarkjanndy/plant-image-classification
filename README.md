@@ -1,4 +1,4 @@
-# =Medicinal Plant Classification Using MobileNet Based CNN
+# Medicinal Plant Classification Using MobileNet Based CNN
 Jupyter Notebook used for creating a MobileNet-based CNN that can classify the ten mostly used and found medicinal plant in the Philippines.
 
 # How to use the notebooks
