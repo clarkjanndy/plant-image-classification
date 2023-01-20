@@ -2,7 +2,7 @@
 Jupyter Notebook used for creating a MobileNet-based CNN that can classify the ten mostly used and found medicinal plant in the Philippines.
 
 # How to use the notebooks
-1. You can use the notebooks by uploading it to Google Colaboratory. Google Colaboratory offers free GPU for the traning of the model.
+1. You can use the notebooks by uploading it to Google Colaboratory. Google Colaboratory offers free GPU for the training of the model.
 2. You can also used the notebooks on your local machine if you have Python, TensorFlow and Jupyter installed locally. 
 
 # Dataset
